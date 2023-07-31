@@ -1,0 +1,25 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(39, 39, 39);
+  flex-direction: column;
+  color: white;
+  text-align: center;
+  gap: 2px;
+  margin-top: auto;
+  width: 100%;
+  padding: 10px;
+}
+ul {
+  display: flex;
+}
+li {
+  list-style: none;
+}
+.footer-p {
+  font-size: 12px;
+}
+.footer-author {
+  font-size: 14px;
+}
