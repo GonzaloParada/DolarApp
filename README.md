@@ -1,8 +1,17 @@
-# React + Vite
+# Dolar App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación de visualizacion valor del dolar blue y oficiol con React Vite utilizando la API: **https://bluelytics.com.ar/#!/api**.
 
-Currently, two official plugins are available:
+Se utilizó la biblioteca de **chart.js** para el chart en la aplicación.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Alt text](./src/assets/app.PNG)
+
+## Tecnologías utilizadas
+
+- React
+- Vite
+- Chart.js
+
+## Link
+
+https://dolar-app-one.vercel.app/
